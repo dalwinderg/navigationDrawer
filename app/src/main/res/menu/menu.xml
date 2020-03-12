@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item android:id="@+id/firstm"
+        android:title="First Fragment"
+        android:icon="@color/colorPrimary"
+       />
+        <item android:id="@+id/secondm"
+            android:title="Second Fragment"
+            android:icon="@color/colorPrimary"
+            />
+        <item android:id="@+id/thirdm"
+        android:title="Third Fragment"
+        android:icon="@color/colorPrimary"
+        />
+
+</group>
+</menu>
